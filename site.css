@@ -1,0 +1,8 @@
+body {
+    background: #ee8f2f;
+    padding: 75px;
+    h2,h3 { color: #841111; font-family: Courier, monospace;}
+h2, h3 {padding-top: 50px;}
+h1 {color: #c57000;font-family: Century; font-size: 70px;}
+img {width: 300px;}    
+}
