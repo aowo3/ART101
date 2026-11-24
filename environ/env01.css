@@ -1,4 +1,4 @@
 Body { 
-    background-image: url("/Users/anneowino/Documents/GitHub/ART101/Hippiesunlike.JPG"); text-align: center;
+    background-image: url("Hippiesunlike.JPG"); text-align: center;
     h1 {font-family: cursive; font-size: 70px;} p {font-family: 'Courier New', Courier, monospace;}
 }
